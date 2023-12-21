@@ -1,9 +1,9 @@
 # Table of Contents
-1. [Introduction](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#introduction)
-2. [Task](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#task)
-3. [Data](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#data)
-4. [Data Processing and Cleaning](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#data-processing-and-cleaning)
-6. [Recommendations](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#recommendations)
+1. [Introduction](https://github.com/valeria-jimenez/cyclistic-sql?tab=readme-ov-file#introduction)
+2. [Task](https://github.com/valeria-jimenez/cyclistic-sql?tab=readme-ov-file#task)
+3. [Data](https://github.com/valeria-jimenez/cyclistic-sql?tab=readme-ov-file#data)
+4. [Data Processing and Cleaning](https://github.com/valeria-jimenez/cyclistic-sql?tab=readme-ov-file#data-processing-and-cleaning)
+6. [Recommendations](https://github.com/valeria-jimenez/cyclistic-sql?tab=readme-ov-file#recommendations)
 
 # Introduction
 * This case study is a part of the Google Data Analytics Course Capstone, originally based on [this case study](https://artscience.blog/home/divvy-dataviz-case-study).
